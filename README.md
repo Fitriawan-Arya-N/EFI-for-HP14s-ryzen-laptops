@@ -9,7 +9,7 @@ HP 14s-dk0157AU
 
 ## Build
 - macOS version: 13.5.2 (22G91)
-- OpenCore version: 0.9.5
+- OpenCore version: 0.9.4
 
 ## didn't work at the moment
 - Sleep
