@@ -3,7 +3,7 @@
 HP 14s-dk0157AU
 - Ryzen 5 3500U
 - Vega 8
-- SSD change to V-GEN cause samsung ssd not supported by hackintosh
+- Storage V-GEN SSD
 - Keyboard PS/2
 - Network Realtek RTL8821CE (not supported by hackintosh)
 
