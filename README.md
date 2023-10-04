@@ -1,7 +1,7 @@
 ## EFI-for-HP14s-ryzen-laptops
 ## Specs
 HP 14s-dk0157AU
--Ryzen 5 3500U
+- Ryzen 5 3500U
 - Vega 8
 - SSD change to V-GEN cause samsung ssd not supported by hackintosh
 - Keyboard PS/2
